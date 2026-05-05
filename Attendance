@@ -2,12 +2,9 @@ The first class, you will need to find your enumber and add today's date next to
 Please leave blank line between entries. If you don't see your enumber, please add it (leaving a blank line on either side of it) and add the date.
 For subsequent classes, change the date to the keyword I give you at the start of class.
 
-<<<<<<< main
 E00760025: i am taking my final exam today.
-=======
 E00764229 - 3/3/2026 - I am presenting the semester project.
 E00760025: i am learning SE and AI contract today.
->>>>>>> main
 E00769563 SE and AI context
 E00764229 - 3/3/2026 - I am learning Continuous Integration.
 E00760025: i am learning software release.
@@ -106,6 +103,43 @@ E00759597: I am learning SE and AI context.
 E00762858 4/23/2026 I am delivering my semester project presentation. 
 E00761557: 04/14/2026, I am learning SE and AI context. !*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*
 E00745033  I'm learning Scrum.
+
+E00762685  1-20-2026
+
+E00766705  1/29/2026 I'm learning scrum this week.
+
+E00760025  1/20/2026 
+
+E00768063  1/20/2026
+
+E00764314  1/20/2026
+
+E00763382  1/20/2026
+
+E00737402 02/10/2026 - Im learning software design ***
+E00764314 1/22/2026
+
+
+E00760782  I am taking the final exam for the course
+  
+E00762509 1/20/2026
+
+E00763804  1/20/2026
+
+E00762509 1/22/2026
+
+E00763804 1/20/2026
+
+E00763804 I'm learning about life cycles 
+
+E00769563 1/20/2026
+
+E00763382 - 1/22/2026
+
+E00769563 1/22/2026
+E00760024 1/29/2026 - im learning SCRUM requirements today
+
+E00762509 - I am learning about scrum today. 
 E00737402 05/5/2026 -  I am taking the final exam ***
 E00760782  SE and AI context
 E00762509 - I am doing sprint demo. 
